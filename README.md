@@ -1,14 +1,18 @@
 # PowerDAB
 Simulation app and source code to calculate power flow of dual active bridge based converters.
 
-Please check our paper for the capabilities of PowerDAB.
+Please check our paper for the capabilities of PowerDAB. Link to paper:
 
-If you would just need basic calculations, try to use the simulation app.
 
-For advanced model based optimization/design, try to download the source code.
+If you would just need basic calculations, try to use the simulation app, which is an easy-to-run executable.
 
-Please write to us if you found any bugs.
+For advanced model based optimization/design, try to download the source code of the app. You could open it with MATLAB and directly copy out the functions.
 
-You are very welcome to propose nice-to-have functions for the simulation app. 
+
+
+Please write to us if you found any bugs. Thanks a lot in advance!
+
+You are very welcome to propose nice-to-have functions for the simulation app.
+
 
 Have fun!
