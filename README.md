@@ -5,6 +5,6 @@ Please check our paper for the capabilities of PowerDAB.
 
 If you would just need basic calculations, try to use the simulation app.
 
-For advanced model based optimization/design, try to down load the source code and use the functins inside.
+For advanced model based optimization/design, try to download the source code and use the functins inside.
 
 Have fun!
