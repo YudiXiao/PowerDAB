@@ -10,9 +10,9 @@ For advanced model based optimization/design, try to download the source code of
 
 
 
-Please write to us if you found any bugs. Thanks a lot in advance!
+Please write to us if you found any bugs or would like to put your comments on the app. Thanks a lot in advance!
 
-You are very welcome to propose nice-to-have functions for the simulation app.
+You are also very welcome to propose nice-to-have functions for the simulation app. We appreciate your ideas.
 
 
 Have fun!
